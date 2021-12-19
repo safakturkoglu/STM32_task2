@@ -1,5 +1,4 @@
-# STM32 ile Sıcaklık ve Nem Değerini Okuma 
-
+# Reading Temperature and Humidity with STM32
 
 ## STM32F103C8T6
 STM32F103C8T6 is a 32-bit microcontroller manufactured by STMicroelectronics having ARM Cortex-M3 Architecture.
