@@ -20,4 +20,9 @@ To reach the outputs, the required circuit is established. The .hex is embedded 
 #### Visual Terminal
 ![Visual Terminal](https://user-images.githubusercontent.com/95358360/146683176-0ebf93d8-74d5-4965-a658-8d8d9d2550c5.png)
 
+#### LEDs
+In the LED Indicator part, it is decided which color the LED will light up, thanks to the temperature measurement in the DHT11. It may light up red, yellow and green depending on the conditions.
+
+![leds](https://user-images.githubusercontent.com/95358360/146683502-9124d593-377d-4e25-ba47-9a4ffec1601a.PNG)
+
 
