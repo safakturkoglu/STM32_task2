@@ -39,5 +39,5 @@ In the LED Indicator part, it is decided which color the LED will light up, than
 [DHT11](https://vidieukhien.xyz/2018/04/06/bai-12-tim-hieu-va-giao-tiep-stm32f4-voi-dht11/ )
 [ADC Usage with STM32]( https://medium.com/@mehmetgkk/stm32-ile-adc-kullan%C4%B1m%C4%B1-19d78eb05097)
 [STM32CubeIDE](https://www.youtube.com/watch?v=TCrmxJuvzyY&t=3s ) 
-[Sending Data with USART](https://www.youtube.com/watch?v=1vipR-6nJaQ )
+
 
