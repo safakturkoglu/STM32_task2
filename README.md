@@ -1,4 +1,4 @@
-# Display Temperature and Humidity Values with STM32
+# Reading Temperature and Humidity Values with STM32
 
 ## STM32F103C6
 STM32F103C6 is a 32-bit microcontroller manufactured by STMicroelectronics having ARM Cortex-M3 Architecture.
