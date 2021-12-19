@@ -45,7 +45,11 @@ In the LED Indicator part, it is decided which color the LED will light up, than
 
 ## References
 [DHT11](https://vidieukhien.xyz/2018/04/06/bai-12-tim-hieu-va-giao-tiep-stm32f4-voi-dht11/ )
+
 [ADC Usage with STM32]( https://medium.com/@mehmetgkk/stm32-ile-adc-kullan%C4%B1m%C4%B1-19d78eb05097)
+
 [STM32CubeIDE](https://www.youtube.com/watch?v=TCrmxJuvzyY&t=3s ) 
 
+[ADC in STM32F103C8T6](https://www.electronicshub.org/how-to-use-adc-in-stm32f103c8t6/)
+[STM32 LM35 Temperature Sensor Interfacing](https://deepbluembedded.com/stm32-lm35-temperature-sensor-example-lm35-with-stm32-adc/)
 
