@@ -31,8 +31,10 @@ We open the CubeMX software and click on the new project and select the microcon
 
 ## Proteus
 To reach the outputs, the required circuit is established. The .hex is embedded in the MCU part of the established circuit. Then it is run. Outputs are also displayed thanks to the Visual Terminal.
+
 #### Proteus Circuit
 ![Proteus_Circuit](https://user-images.githubusercontent.com/95358360/146682793-bc1a62d1-aaf1-4755-821e-92d1ff18602d.PNG)
+
 #### Visual Terminal
 ![Visual Terminal](https://user-images.githubusercontent.com/95358360/146683176-0ebf93d8-74d5-4965-a658-8d8d9d2550c5.png)
 
