@@ -16,6 +16,8 @@ We open the CubeMX software and click on the new project and select the microcon
 ## Proteus
 
 
-![proteus_circuit](https://user-images.githubusercontent.com/95358360/146682793-bc1a62d1-aaf1-4755-821e-92d1ff18602d.PNG)
+![Proteus_Circuit](https://user-images.githubusercontent.com/95358360/146682793-bc1a62d1-aaf1-4755-821e-92d1ff18602d.PNG)
+
+![Visual Terminal](https://user-images.githubusercontent.com/95358360/146683176-0ebf93d8-74d5-4965-a658-8d8d9d2550c5.png)
 
 
