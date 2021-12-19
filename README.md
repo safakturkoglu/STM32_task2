@@ -21,7 +21,7 @@ The LM35 temperature sensor, which is used to measure the temperature of the env
 - Proteus
 
 ## STM32CubeMX and Keil IDE
-We open the CubeMX software and click on the new project and select the microcontroller as STM32F103C6. We selected the GPIO Output pins. Then double click on the STM32F103C8 at the right panel. Next, a new window will be opened where you need to change SYS Debug to Serial Wire and RCC of High-Speed Clock or HSC to Crystal/Ceramic Resonator. Clock configuration is set 72 Mhz. A code is generated according to our choices. Keil is also an IDE where we can edit the code produced for us. We are making additions to the main code. After editing the code, we build. Then the .hex is generated.
+We open the CubeMX software and click on the new project and select the microcontroller as STM32F103C6. We selected the GPIO Output pins. Then double click on the STM32F103C8 at the right panel. Next, a new window will be opened where you need to change SYS Debug to Serial Wire and RCC of High-Speed Clock or HSC to Crystal/Ceramic Resonator. Clock configuration is set 72 Mhz. A code is generated according to our choices. Keil is also an IDE where we can edit the code produced for us. We are making additions to the main code. After editing the code, we build. Then the .hex is generated. Before creating code, i have configured Pinout as below. I also made the Mode and Configuration settings.
 
 #### System View
 ![System_view](https://user-images.githubusercontent.com/95358360/146690048-89769e98-0890-4a0d-8fb0-0d6232cb3021.PNG)
