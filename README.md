@@ -2,8 +2,7 @@
 
 
 ## STM32F103C8T6
-STM32F103C8T6 is a 32-bit microcontroller manufactured by STMicroelectronics having ARM Cortex-M3 Architecture. CPU frequency is 72 Mhz. 
-
+STM32F103C8T6 is a 32-bit microcontroller manufactured by STMicroelectronics having ARM Cortex-M3 Architecture.
 ## DHT11
 
 DHT11 temperature and humidity sensor can measure temperature between 0-50°C and ± 2°C accuracy, and humidity value between 20-80% with 5% accuracy. On the sensing side there is a humidity sensing component along with an NTC temperature sensor.
