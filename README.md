@@ -51,5 +51,6 @@ In the LED Indicator part, it is decided which color the LED will light up, than
 [STM32CubeIDE](https://www.youtube.com/watch?v=TCrmxJuvzyY&t=3s ) 
 
 [ADC in STM32F103C8T6](https://www.electronicshub.org/how-to-use-adc-in-stm32f103c8t6/)
+
 [STM32 LM35 Temperature Sensor Interfacing](https://deepbluembedded.com/stm32-lm35-temperature-sensor-example-lm35-with-stm32-adc/)
 
